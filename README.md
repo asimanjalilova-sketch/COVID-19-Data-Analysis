@@ -1,10 +1,10 @@
-# 🦠 COVID-19 Data Analysis (Germany)
+# COVID-19 Data Analysis (Germany)
 
 A Python data analysis project exploring the progression of **COVID-19 cases in Germany** using **pandas**, **matplotlib**, and **NumPy**, based on live data from the [COVID-19 Dataset by Our World in Data](https://github.com/datasets/covid-19).
 
 ---
 
-## 📊 Overview
+## Overview
 
 This project performs a **complete data analysis workflow**, demonstrating real-world data science and visualization techniques.  
 
@@ -29,7 +29,4 @@ Tracks how recovery compares with active cases.
 
 ![Active vs Recovered](active_vs_recovered.png)
 
----
-
-## 🧩 Project Structure
 
